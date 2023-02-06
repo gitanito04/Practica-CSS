@@ -1,0 +1,50 @@
+body{
+    background-color:lightblue;
+}
+a.nav1:hover{
+    background-color: yellow;
+    color: red;
+}
+a.nav2:hover{
+    background-color: yellow;
+    color: red;
+}
+a.nav3:hover{
+    background-color: yellow;
+    color: red;
+}
+h1.titulo1{
+    text-align: center;
+    color: blue;
+    font-weight: 100;
+}
+span.tituloS{
+    font-size: 4ch;
+    color: black;
+}
+nav{
+    text-align: center;
+    color: blue;
+}
+p.l1:first-line{
+    color: red;
+}
+p.l2:first-line{
+    color: red;
+}
+div a[href]{
+    background-color: white;
+    color: blue;
+}
+div a:visited{
+    background-color: blue;
+    color: white;
+}
+img.img1{
+    width:250px ;
+    height:250px;
+    float: right;
+}
+footer p{
+    font-style: italic;
+}
